@@ -4,8 +4,8 @@ Create a reponsive calendar
 
 Rules
 -----
-* You are only allowed to use the following languages: *HTML*, *CSS*, *JavaScript* (including Node.js)
-* You can use any CSS and JS frameworks that you want (e.g bootstrap, React etc) but of course we prefer if most of the code is your own.
+* You are only allowed to use the following languages: *HTML*, *CSS*, *JavaScript* (or *TypeScript*) (including Node.js)
+* You can use any CSS and JS frameworks that you want (e.g bootstrap, React, moment etc). We prefer React.
 
 Step 1 - Create a responsive layout
 -----------------------------------
@@ -38,4 +38,4 @@ If you find anything unclear in the description of the tasks, please choose one 
 
 Submission
 ----------
-Please submit your solution via a zip file to martin@photowall.se
+Please submit your solution via a zip file to niklas.fondberg@photowall.se
